@@ -5,4 +5,4 @@ import CoreC
 import CoreRust
 
 let sampleStruct = SampleStruct(a: 1)
-nonisolated(unsafe) let num = rust_munchausen_numbers()
+let num = add(1, 2)
