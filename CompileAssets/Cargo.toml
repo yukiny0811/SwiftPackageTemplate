@@ -1,0 +1,10 @@
+[package]
+name = "corerust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "corerust"
+crate-type = ["staticlib"]
